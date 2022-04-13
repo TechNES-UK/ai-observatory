@@ -11,7 +11,7 @@ Almost all the content of this repository is hosted on its Wiki.
 ## Licensing
 
 All material in this repository is covered by a Creative Commons Attribution
-4.0 International license.  See the [LICENSE](../blob/main/LICENSE) file for
+4.0 International license.  See the [LICENSE](LICENSE) file for
 details.
 
 ## About TechNES and TechWorks
